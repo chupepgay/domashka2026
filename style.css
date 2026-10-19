@@ -1,0 +1,17 @@
+p {
+    font-size: 30px;
+}
+ th {
+    color: rgb(0, 195, 255);
+}
+.zopa {
+    background-color: aqua;
+    width: 100px; 
+    height: 100px;
+}
+.aloha{
+    background-color: aquamarine;
+    width: 250px;
+    height: 200px;
+    
+}
